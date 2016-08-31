@@ -1,4 +1,7 @@
-BEE2
-====
+#BEE2.2 Resources
 
-A Portal 2 Mod Tool
+
+Resources for the BEE2.2
+These can be installed by merging directly with the **steamapps/common/Portal 2** directory.
+Included is Carl Kenner's Stylemod executables which intercepts the puzzle compilation process to alter the vmf.
+
